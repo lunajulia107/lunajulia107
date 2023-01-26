@@ -20,7 +20,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS--05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
