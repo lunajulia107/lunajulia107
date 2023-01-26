@@ -43,7 +43,7 @@
 ## Contact
 
 <p align="left" style="background:blue">
-<a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank"><img align="center" src="https://img.shields.io/badge/-lunajulia107-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank"><img align="center" src="https://img.shields.io/badge/-lunajulia107-05122A?style=flat-square&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
