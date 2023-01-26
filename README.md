@@ -32,8 +32,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107" alt="lunajulia107's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107" alt="lunajulia107's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?lunajulia107=anuraghazra&theme=dark&show_icons=true" alt="lunajulia107's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107=anuraghazra&theme=dark&show_icons=true" alt="lunajulia107's most languages"/>
 </p>
 
 
