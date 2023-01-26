@@ -33,7 +33,7 @@
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&theme=react&show_icons=true" alt="lunajulia107's stats"/>
-<br>
+<br><br>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" alt="lunajulia107's most languages"/>
 </p>
 
