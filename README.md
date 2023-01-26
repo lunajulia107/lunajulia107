@@ -46,7 +46,7 @@
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lunajulia107-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito](https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank"><img align="center" src="https://img.shields.io/badge/-lunajulia107-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank"><img align="center" src="https://img.shields.io/badge/-lunajulia107-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
