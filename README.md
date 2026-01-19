@@ -1,16 +1,21 @@
-👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙
+## 👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙
 
-💻 ###Desenvolvedora Front-end Júnior
-Experiência prática em <strong>sistemas web institucionais</strong> e projetos web,
-utilizando <strong>JavaScript, React e ASP.NET MVC</strong>.<br/>
+### 💻 Desenvolvedora Front-end Júnior
+
+Experiência prática em **sistemas web institucionais** e projetos web,
+utilizando **JavaScript, React e ASP.NET MVC**.  
 Vivência em empresa de grande porte, com atuação em análise técnica,
 automação de processos e trabalho em ambientes ágeis.
 
-🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri<br/>
-💼 Estagiária em TI na Cielo — Barueri/SP
+🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri  
+💼 Estagiária em TI na Cielo — Barueri/SP  
 
-🚀 Stack principal
-<img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" /> 
+---
+
+### 🚀 Stack principal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
+</p>
 
 ---
 
@@ -21,33 +26,28 @@ automação de processos e trabalho em ambientes ágeis.
 ---
 
 ### 📊 GitHub
-<div class="d-flex flex-row">
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
-</div>
-
-<div class="d-flex flex-row">
-   <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  
-  <a href="mailto:rodriguesjuliaw23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-</div>
+</p>
 
 ---
 
-### ⚙️ Back-end & Integrações (experiência profissional)
+### Back-end & Integrações (experiência profissional)
 <img src="https://skillicons.dev/icons?i=cs,dotnet,sql,ajax,jquery,nodejs,mysql" />
 
 ---
 
-### 🛠️ Ferramentas & Extras
+### Ferramentas & Extras
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
 
 ---
-
-### 🔗 Links úteis
-- 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)
-- 📧 Email: rodriguesjuliaw23@gmail.com
+### Mais 
+<p align="center">
+  <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rodriguesjuliaw23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A2540?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
