@@ -50,6 +50,6 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 
-### 🔗 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)
-- 📧 Email: rodriguesjuliaw23@gmail.com
+### 🔗 Contato  
+- 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)  
+- 📧 rodriguesjuliaw23@gmail.com
