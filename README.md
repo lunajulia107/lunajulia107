@@ -31,6 +31,14 @@ automação de processos e trabalho em ambientes ágeis.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
 </section>
 
+<p>
+  <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rodriguesjuliaw23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A2540?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### Back-end & Integrações (experiência profissional)
@@ -42,12 +50,6 @@ automação de processos e trabalho em ambientes ágeis.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
 
 ---
-### Mais 
-<p>
-  <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rodriguesjuliaw23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0A2540?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🔗 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)
+- 📧 Email: rodriguesjuliaw23@gmail.com
