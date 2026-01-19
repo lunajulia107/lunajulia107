@@ -16,7 +16,7 @@
   💼 Estagiária em TI na Cielo — Barueri/SP
 </p>
 
-<div>
+<div align="center">
   <p align="center">🚀 Stack principal</p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" /> 
 </div>
