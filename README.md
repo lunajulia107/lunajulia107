@@ -1,54 +1,54 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lunajulia107/e374ed20fc263bd1dfba53d3ac4d61d1/raw/5dead06df4967fdc364f17f0019b08481599b80f/githubcard_me.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Julia Rodrigues</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lunajulia107&color=blue" alt="Profile views" /> </p>
+# 👋 Hi, I'm Julia Rodrigues
 
-- 🔥 Internet computer technology
+### 💻 Front-end Developer Junior
 
-- 🔭 I'm looking for my first job
+Front-end developer with hands-on experience building and maintaining web systems.  
+I work mainly with **JavaScript, React and ASP.NET MVC**, focusing on clean interfaces,
+good user experience and well-structured code.
 
-- 🌱 I’m currently learning ...
+I have experience in corporate environments, working with agile teams and continuously
+improving my skills through real-world projects.
 
-- 🤔 I’m looking for help with React.js.
+---
 
-- 💬 Ask me about **HTML, CSS, Axure**
+## 🛠️ Tech Stack
 
-- ⚡ Fun fact: Love design area.
+**Front-end**
+- HTML5, CSS3, Sass, Bootstrap  
+- JavaScript (ES6+), React  
+- jQuery, Ajax  
 
+**Back-end & Integrations**
+- ASP.NET MVC (C#, Razor / CSHTML)
+- Node.js (basic)
+- SQL / MySQL  
 
-<br><br>
+**Tools**
+- Git, GitHub  
+- Visual Studio Code, Visual Studio  
+- Figma  
 
-## 🛠 &nbsp;Tech Stack
+---
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat-square&logo=mySQL)&nbsp;
+## 🚀 Currently learning
 
-<br><br>
+- Advanced React (Hooks, state management)
+- API integration
+- Front-end architecture and best practices
+- Performance and accessibility
 
-## ⚙️ &nbsp;GitHub Analytics
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&theme=react&show_icons=true" alt="lunajulia107's stats"/>
-<br><br>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" alt="lunajulia107's most languages"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
+  <br/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
 </p>
 
+---
 
-<br><br>
+## 📫 Contact
 
-## Contact
-
-<p align="left" style="background:blue">
-<a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank"><img align="center" src="https://img.shields.io/badge/-juliaRodrigues-05122A?style=flat-square&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
-
-<!--
-
-**lunajulia107/lunajulia107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)
