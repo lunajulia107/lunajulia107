@@ -28,8 +28,10 @@ automação de processos e trabalho em ambientes ágeis.
 ---
 
 ### 📊 GitHub
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
+</div>
 
 ---
 
