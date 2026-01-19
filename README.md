@@ -13,38 +13,36 @@ automação de processos e trabalho em ambientes ágeis.
 ---
 
 ### 🚀 Stack principal
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
 
 ---
 
 ### 📚 Atualmente
-- Desenvolvimento de projetos práticos em React
-- Automação de processos (Python (playwright, Power Automate, Copilot Studio...)
+- Desenvolvimento de projetos práticos em React  
+- Automação de processos com **Python (Playwright)**, **Power Automate** e **Copilot Studio**
 
 ---
 
 ### 📊 GitHub
-<section>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
-</section>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
 
 ---
 
 ### ⚙️ Back-end & Integrações (experiência profissional)
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql,ajax" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
 
-- Banco de dados: MySQL & SQL
+- Banco de dados relacional (**MySQL / SQL**)
 - Comunicação assíncrona com **AJAX**
+- Integração com APIs e sistemas internos
 
 ---
 
-### Ferramentas & Extras
+### 🛠️ Ferramentas & Extras
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
 
 ---
-### Contato
+
+### 🔗 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)
 - 📧 Email: rodriguesjuliaw23@gmail.com
