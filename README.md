@@ -1,16 +1,19 @@
-## 👋 Oi, eu sou a Julia Rodrigues
+## 👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙
 
 💻 **Desenvolvedora Front-end Júnior**  
-Atuo no desenvolvimento e manutenção de sistemas web institucionais, com foco em
-interfaces funcionais, bem estruturadas e boa experiência do usuário.
+Desenvolvedora Front-end com experiência prática em **sistemas web institucionais**
+e projetos web, utilizando **JavaScript, React e ASP.NET MVC**. Possuo vivência
+profissional em empresa de grande porte, com atuação em análise técnica, automação
+de processos e trabalho em ambientes ágeis. Busco oportunidade focada em
+desenvolvimento front-end para continuar minha evolução técnica e contribuir com
+soluções eficientes e escaláveis.
 
-Tenho experiência prática em ambiente corporativo, integração entre front-end,
-back-end e banco de dados, além de vivência com metodologias ágeis.
-
+🎓 Cursando Tecnólogo em Design de Mídias Digitais — Fatec Barueri  
+💼 Estagiária em TI na Cielo — Barueri/SP
 ---
 
-### 🚀 Stack principal
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react" />
+### 🚀 Stack principais
+<img src="https://skillicons.dev/icons?i=react,js,css,html,css,sass,bootstrap" />
 
 ---
 
