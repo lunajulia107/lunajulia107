@@ -15,6 +15,10 @@ automação de processos e trabalho em ambientes ágeis.
 ### 🚀 Stack principal
 <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
 
+- **JavaScript** (React)
+- **HTML5**
+- **CSS3** (Sass, Bootstrap)
+
 ---
 
 ### 📚 Atualmente
@@ -32,9 +36,10 @@ automação de processos e trabalho em ambientes ágeis.
 ### ⚙️ Back-end & Integrações (experiência profissional)
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
 
-- Banco de dados relacional (**MySQL / SQL**)
-- Comunicação assíncrona com **AJAX**
-- Integração com APIs e sistemas internos
+- **Banco de dados:** MySQL / SQL  
+- **Linguagens:** JavaScript e C#  
+- **Frameworks:** ASP.NET MVC e Node.js (Express)  
+- **Comunicação assíncrona:** AJAX  
 
 ---
 
