@@ -26,10 +26,10 @@ automação de processos e trabalho em ambientes ágeis.
 ---
 
 ### 📊 GitHub
-<p align="center">
+<section>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
-</p>
+</section>
 
 ---
 
@@ -43,7 +43,7 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 ### Mais 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
