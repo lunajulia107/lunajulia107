@@ -28,19 +28,23 @@
 - Automação de processos com **Python (Playwright)**, Power Automate e Copilot Studio  
 
 ---
+
 ### 📊 GitHub
 <div class="d-flex flex-row center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
 </div>
+
 ---
 
 ### ⚙️ Back-end & Integrações (experiência profissional)
 <img src="https://skillicons.dev/icons?i=cs,dotnet,sql,ajax,jquery,nodejs,mysql" />
 
 ---
+
 ### 🛠️ Ferramentas & Extras
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
+
 ---
 
 ### 🔗 Links úteis
