@@ -35,6 +35,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
 </div>
 
+<div class="d-flex flex-row center">
+   <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  
+  <a href="mailto:rodriguesjuliaw23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</div>
+
 ---
 
 ### ⚙️ Back-end & Integrações (experiência profissional)
@@ -48,10 +58,3 @@
 ---
 
 ### 🔗 Links úteis
-<a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-
-<a href="mailto:rodriguesjuliaw23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
