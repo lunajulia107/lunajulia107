@@ -10,14 +10,6 @@ automação de processos e trabalho em ambientes ágeis.
 🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri  
 💼 Estagiária em TI na Cielo — Barueri/SP  
 
-<p>
-  <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rodriguesjuliaw23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0A2540?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 ---
 
 ### 🚀 Stack principal
