@@ -1,30 +1,25 @@
-## 👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙
+<h2 align="center">👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙</h2>
 
-💻 **Desenvolvedora Front-end Júnior**  
-Experiência prática em **sistemas web institucionais** e projetos web, utilizando
-**JavaScript, React e ASP.NET MVC**. Vivência profissional em empresa de grande
-porte, com atuação em análise técnica, automação de processos e trabalho em
-ambientes ágeis. Busco oportunidade focada em desenvolvimento front-end para
-continuar minha evolução técnica e contribuir com soluções eficientes e escaláveis.
+<p align="center">
+  💻 <strong>Desenvolvedora Front-end Júnior</strong>
+</p>
 
-🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri (em andamento)  
-💼 Estagiária em TI na Cielo — Barueri/SP  
+<p align="center">
+  Experiência prática em <strong>sistemas web institucionais</strong> e projetos web,
+  utilizando <strong>JavaScript, React e ASP.NET MVC</strong>.<br/>
+  Vivência em empresa de grande porte, com atuação em análise técnica,
+  automação de processos e trabalho em ambientes ágeis.
+</p>
 
----
+<p align="center">
+  🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri<br/>
+  💼 Estagiária em TI na Cielo — Barueri/SP
+</p>
 
-### 🚀 Stack principal
-<img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
-
----
-
-### ⚙️ Back-end & Integrações (experiência profissional)
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sql,ajax,jquery,nodejs,mysql" />
-
----
-
-### 🛠️ Ferramentas & Extras
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
-
+<div>
+  <p align="center">🚀 Stack principal</p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" /> 
+</div>
 ---
 
 ### 📚 Atualmente estudando
@@ -32,11 +27,19 @@ continuar minha evolução técnica e contribuir com soluções eficientes e esc
 - Automação de processos com **Python (Playwright)**, Power Automate e Copilot Studio  
 
 ---
-
 ### 📊 GitHub
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
+<div class="d-flex flex-row center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
+</div>
+---
 
+### ⚙️ Back-end & Integrações (experiência profissional)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sql,ajax,jquery,nodejs,mysql" />
+
+---
+### 🛠️ Ferramentas & Extras
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
 ---
 
 ### 🔗 Links úteis
