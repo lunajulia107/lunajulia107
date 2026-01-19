@@ -30,6 +30,7 @@ automação de processos e trabalho em ambientes ágeis.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
 </section>
+
 ---
 
 ### Back-end & Integrações (experiência profissional)
@@ -41,6 +42,6 @@ automação de processos e trabalho em ambientes ágeis.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
 
 ---
-### 🔗 Contato
+### Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)
 - 📧 Email: rodriguesjuliaw23@gmail.com
