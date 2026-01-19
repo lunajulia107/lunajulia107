@@ -1,54 +1,44 @@
-# 👋 Hi, I'm Julia Rodrigues
+## 👋 Oi, eu sou a Julia Rodrigues
 
-### 💻 Front-end Developer Junior
+💻 **Desenvolvedora Front-end Júnior**  
+Atuo no desenvolvimento e manutenção de sistemas web institucionais, com foco em
+interfaces funcionais, bem estruturadas e boa experiência do usuário.
 
-Front-end developer with hands-on experience building and maintaining web systems.  
-I work mainly with **JavaScript, React and ASP.NET MVC**, focusing on clean interfaces,
-good user experience and well-structured code.
-
-I have experience in corporate environments, working with agile teams and continuously
-improving my skills through real-world projects.
+Tenho experiência prática em ambiente corporativo, integração entre front-end,
+back-end e banco de dados, além de vivência com metodologias ágeis.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Front-end**
-- HTML5, CSS3, Sass, Bootstrap  
-- JavaScript (ES6+), React  
-- jQuery, Ajax  
-
-**Back-end & Integrations**
-- ASP.NET MVC (C#, Razor / CSHTML)
-- Node.js (basic)
-- SQL / MySQL  
-
-**Tools**
-- Git, GitHub  
-- Visual Studio Code, Visual Studio  
-- Figma  
+### 🚀 Stack principal
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react" />
 
 ---
 
-## 🚀 Currently learning
-
-- Advanced React (Hooks, state management)
-- API integration
-- Front-end architecture and best practices
-- Performance and accessibility
+### ⚙️ Back-end & Integrações
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
-  <br/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
-</p>
+### 🛠️ Ferramentas & Extras
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
 
 ---
 
-## 📫 Contact
+### 📚 Atualmente estudando
+- Boas práticas em React
+- Organização e arquitetura de projetos Front-end
+- Integração com APIs
+- Performance e acessibilidade
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)
+---
+
+### 📊 GitHub
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
+
+---
+
+### 🔗 Onde me encontrar
+<a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
