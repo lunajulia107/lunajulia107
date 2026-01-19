@@ -20,6 +20,7 @@
   <p align="center">🚀 Stack principal</p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" /> 
 </div>
+
 ---
 
 ### 📚 Atualmente estudando
