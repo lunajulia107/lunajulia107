@@ -34,7 +34,7 @@ automação de processos e trabalho em ambientes ágeis.
 ---
 
 ### ⚙️ Back-end & Integrações (experiência profissional)
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql,sql" />
 
 - Comunicação assíncrona com **AJAX**
 
