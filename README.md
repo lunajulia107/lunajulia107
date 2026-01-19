@@ -19,9 +19,9 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 
-### 📚 Atualmente estudando
-- Boas práticas em React  
-- Automação de processos com **Python (Playwright)**, Power Automate e Copilot Studio  
+### 📚 Atualmente
+- Desenvolvimento de projetos práticos em React
+- Automação de processos no ambiente de trabalho com Python, Power Automate e Copilot Studio
 
 ---
 
