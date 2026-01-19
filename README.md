@@ -1,25 +1,16 @@
-<h2 align="center">👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙</h2>
+👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙
 
-<p align="center">
-  💻 <strong>Desenvolvedora Front-end Júnior</strong>
-</p>
+💻 ###Desenvolvedora Front-end Júnior
+Experiência prática em <strong>sistemas web institucionais</strong> e projetos web,
+utilizando <strong>JavaScript, React e ASP.NET MVC</strong>.<br/>
+Vivência em empresa de grande porte, com atuação em análise técnica,
+automação de processos e trabalho em ambientes ágeis.
 
-<p align="center">
-  Experiência prática em <strong>sistemas web institucionais</strong> e projetos web,
-  utilizando <strong>JavaScript, React e ASP.NET MVC</strong>.<br/>
-  Vivência em empresa de grande porte, com atuação em análise técnica,
-  automação de processos e trabalho em ambientes ágeis.
-</p>
+🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri<br/>
+💼 Estagiária em TI na Cielo — Barueri/SP
 
-<p align="center">
-  🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri<br/>
-  💼 Estagiária em TI na Cielo — Barueri/SP
-</p>
-
-<div align="center">
-  <p align="center">🚀 Stack principal</p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" /> 
-</div>
+🚀 Stack principal
+<img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" /> 
 
 ---
 
@@ -30,12 +21,12 @@
 ---
 
 ### 📊 GitHub
-<div class="d-flex flex-row center">
+<div class="d-flex flex-row">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
 </div>
 
-<div class="d-flex flex-row center">
+<div class="d-flex flex-row">
    <a href="https://www.linkedin.com/in/julia-rodrigues-luna107/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
