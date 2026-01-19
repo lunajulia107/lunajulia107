@@ -21,7 +21,7 @@ automação de processos e trabalho em ambientes ágeis.
 
 ### 📚 Atualmente
 - Desenvolvimento de projetos práticos em React
-- Automação de processos no ambiente de trabalho com Python, Power Automate e Copilot Studio
+- Automação de processos (Python (playwright, Power Automate, Copilot Studio...)
 
 ---
 
@@ -33,8 +33,10 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 
-### Back-end & Integrações (experiência profissional)
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sql,ajax,jquery,nodejs,mysql" />
+### ⚙️ Back-end & Integrações (experiência profissional)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
+
+- Comunicação assíncrona com **AJAX**
 
 ---
 
