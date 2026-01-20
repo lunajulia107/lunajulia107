@@ -3,7 +3,7 @@
 ### 💻 Desenvolvedora Front-end | UI Designer
 
 Experiência prática em projetos web e interfaces para sistemas institucionais,
-com foco em *front-end, utilizando **JavaScript, React, HTML e CSS*.
+com foco em *front-end", utilizando **JavaScript, React, HTML e CSS*.
 Vivência em empresa de grande porte, atuando em análise técnica,
 automação de processos e trabalho em ambientes ágeis.
 
