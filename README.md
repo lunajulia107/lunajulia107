@@ -1,10 +1,10 @@
 ## 👋 Oi, eu sou a Julia Rodrigues! 👩🏻‍💻💙
 
-### 💻 Desenvolvedora Front-end Júnior
+### 💻 Desenvolvedora Front-end | UI Designer
 
-Experiência prática em **sistemas web institucionais** e projetos web,
-utilizando **JavaScript, React e ASP.NET MVC**.  
-Vivência em empresa de grande porte, com atuação em análise técnica,
+Experiência prática em projetos web e interfaces para sistemas institucionais,
+com foco em *front-end, utilizando **JavaScript, React, HTML e CSS*.
+Vivência em empresa de grande porte, atuando em análise técnica,
 automação de processos e trabalho em ambientes ágeis.
 
 🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri  
@@ -15,15 +15,15 @@ automação de processos e trabalho em ambientes ágeis.
 ### 🚀 Stack principal
 <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
 
-- **JavaScript** (React)
-- **HTML5**
-- **CSS3** (Sass, Bootstrap)
+- *JavaScript* (React)
+- *HTML5*
+- *CSS3* (Sass, Bootstrap)
 
 ---
 
 ### 📚 Atualmente
 - Desenvolvimento de projetos práticos em React  
-- Automação de processos com **Python (Playwright)**, **Power Automate** e **Copilot Studio**
+- Exploração de automação como apoio a fluxos de produtos digitais
 
 ---
 
@@ -35,13 +35,13 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 
-### ⚙️ Back-end & Integrações (experiência profissional)
+### ⚙️ Back-end & Integrações (apoio ao front-end)
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
 
-- **Banco de dados:** MySQL / SQL  
-- **Linguagens:** JavaScript e C#  
-- **Frameworks:** ASP.NET MVC e Node.js (Express)  
-- **Comunicação assíncrona:** AJAX  
+- *Banco de dados:* MySQL / SQL  
+- *Linguagens:* JavaScript e C#  
+- *Frameworks:* ASP.NET MVC e Node.js (Express)  
+- *Comunicação assíncrona:* AJAX  
 
 ---
 
