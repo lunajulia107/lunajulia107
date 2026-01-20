@@ -3,7 +3,7 @@
 ### 💻 Desenvolvedora Front-end | UI Designer
 
 Experiência prática em projetos web e interfaces para sistemas institucionais,
-com foco em *front-end", utilizando *JavaScript, React, HTML e CSS*.
+com foco em front-end, utilizando JavaScript, React, HTML e CSS.
 Vivência em empresa de grande porte, atuando em análise técnica,
 automação de processos e trabalho em ambientes ágeis.
 
@@ -15,9 +15,9 @@ automação de processos e trabalho em ambientes ágeis.
 ### 🚀 Stack principal
 <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
 
-- *JavaScript* (React)
-- *HTML5*
-- *CSS3* (Sass, Bootstrap)
+- JavaScript (React)
+- HTML5
+- CSS3 (Sass, Bootstrap)
 
 ---
 
@@ -38,10 +38,10 @@ automação de processos e trabalho em ambientes ágeis.
 ### ⚙️ Back-end & Integrações (apoio ao front-end)
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
 
-- *Banco de dados:* MySQL / SQL  
-- *Linguagens:* JavaScript e C#  
-- *Frameworks:* ASP.NET MVC e Node.js (Express)  
-- *Comunicação assíncrona:* AJAX  
+- Banco de dados: MySQL / SQL  
+- Linguagens: JavaScript e C#  
+- Frameworks: ASP.NET MVC e Node.js (Express)  
+- Comunicação assíncrona: AJAX  
 
 ---
 
