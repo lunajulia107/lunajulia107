@@ -2,18 +2,18 @@
 
 ### 💻 Desenvolvedora Front-end | UI Designer
 
-Experiência prática em projetos web e interfaces para sistemas institucionais,
-com foco em front-end, utilizando JavaScript, React, HTML e CSS.
-Vivência em empresa de grande porte, atuando em análise técnica,
-automação de processos e trabalho em ambientes ágeis.
+Sou desenvolvedora front-end com experiência prática em projetos web e interfaces
+para sistemas institucionais, com foco em **React, JavaScript, HTML e CSS**.
+Atuei em empresa de grande porte, com vivência em **análise técnica, automação de processos**
+e trabalho em **ambientes ágeis**.
 
 🎓 Tecnólogo em Design de Mídias Digitais — Fatec Barueri  
 💼 Estagiária em TI na Cielo — Barueri/SP  
 
 ---
 
-### 🚀 Stack principal
-<img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap" />
+## 🚀 Stack principal
+<img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap&theme=light" />
 
 - JavaScript (React)
 - HTML5
@@ -21,13 +21,14 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 
-### 📚 Atualmente
+## 📚 Atualmente
 - Desenvolvimento de projetos práticos em React  
-- Exploração de automação como apoio a fluxos de produtos digitais
+- Criação de interfaces focadas em usabilidade e UI  
+- Exploração de automação como apoio a fluxos de produtos digitais  
 
 ---
 
-### 📊 GitHub
+## 📊 GitHub
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lunajulia107&show_icons=true&theme=react" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=react" />
@@ -35,8 +36,8 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 
-### ⚙️ Back-end & Integrações (apoio ao front-end)
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql" />
+## ⚙️ Back-end & Integrações (apoio ao front-end)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql&theme=light" />
 
 - Banco de dados: MySQL / SQL  
 - Linguagens: JavaScript e C#  
@@ -45,11 +46,11 @@ automação de processos e trabalho em ambientes ágeis.
 
 ---
 
-### 🛠️ Ferramentas & Extras
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python" />
+## 🛠️ Ferramentas & Extras
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress,python&theme=light" />
 
 ---
 
-### 🔗 Contato  
-- 💼 [LinkedIn](https://www.linkedin.com/in/julia-rodrigues-luna107/)  
-- 📧 rodriguesjuliaw23@gmail.com
+## 🔗 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/julia-rodrigues-luna107/
+- 📧 E-mail: rodriguesjuliaw23@gmail.com
