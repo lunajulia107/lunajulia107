@@ -12,7 +12,7 @@ e trabalho em **ambientes ágeis**.
 
 ---
 
-## 🚀 Stack principal
+## 🚀 Stacks principais
 <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap&theme=light" />
 
 - JavaScript (React)
