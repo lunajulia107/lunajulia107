@@ -1,5 +1,3 @@
-<div align="center">
-
 # Oi, eu sou a Julia Rodrigues 👋
 
 **Desenvolvedora Full-Stack Júnior** · Java & Spring Boot · JavaScript & React
@@ -8,8 +6,6 @@ Construo sistemas no setor de meios de pagamento, com um olhar de design que vem
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-rodrigues-luna107/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguesjuliaw23@gmail.com)
-
-</div>
 
 ---
 
@@ -92,14 +88,10 @@ Desenvolvedora full-stack com foco em **Java e Spring Boot**, atuando no Squad d
 
 ## 📊 Minha atividade no GitHub
 
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunajulia107&theme=github_dark" alt="Resumo de contribuições" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Linguagens mais usadas" height="170" />
 <img src="https://streak-stats.demolab.com?user=lunajulia107&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Sequência de contribuições" height="170" />
-
-</div>
 
 ---
 
