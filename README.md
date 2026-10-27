@@ -61,8 +61,8 @@ Desenvolvedora full-stack com foco em **Java e Spring Boot**, atuando no Squad d
       <img src="https://img.shields.io/badge/ArgoCD-21262d?style=for-the-badge&logo=argo&logoColor=EF7B4D" alt="ArgoCD" />
       <img src="https://img.shields.io/badge/SonarQube-21262d?style=for-the-badge&logo=sonar&logoColor=FD3456" alt="SonarQube" />
       <img src="https://img.shields.io/badge/Dynatrace-21262d?style=for-the-badge&logo=dynatrace&logoColor=1496FF" alt="Dynatrace" />
-      <img src="https://img.shields.io/badge/AWS%20S3-21262d?style=for-the-badge" alt="AWS S3" />
       <img src="https://img.shields.io/badge/Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+      <img src="https://img.shields.io/badge/AWS%20S3-21262d?style=for-the-badge" alt="AWS S3" />
     </td>
   </tr>
   <tr>
@@ -89,9 +89,6 @@ Desenvolvedora full-stack com foco em **Java e Spring Boot**, atuando no Squad d
 ## 📊 Minha atividade no GitHub
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunajulia107&theme=github_dark" alt="Resumo de contribuições" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunajulia107&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Linguagens mais usadas" height="170" />
-<img src="https://streak-stats.demolab.com?user=lunajulia107&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Sequência de contribuições" height="170" />
 
 ---
 
