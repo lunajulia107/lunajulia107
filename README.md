@@ -15,11 +15,11 @@ Desenvolvedora full-stack com foco em **Java e Spring Boot**, atuando no setor d
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" />
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=js,react,angular,html,css,sass,bootstrap,jquery&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,angular,jquery,html,css,sass,bootstrap&theme=dark" />
 
 **Banco de dados, DevOps e ferramentas**
 
