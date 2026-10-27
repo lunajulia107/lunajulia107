@@ -1,6 +1,6 @@
 ## Oi, eu sou a Julia Rodrigues 👋
 
-### Junior FullStack Developer | Java & Spring Boot · JavaScript & React
+### Desenvolvedora Full-Stack Junior | Java & Spring Boot · JavaScript & React
 
 Desenvolvedora full-stack com foco em **Java e Spring Boot**, atuando no setor de **meios de pagamento** no Squad de Cancelamento da **Cielo** (via ACT Digital). Tenho mais de 2 anos de experiência em front-end, incluindo a **reconstrução de um sistema web usado por mais de 600 professores**, e uma base em design de interfaces que me ajuda a entregar produtos funcionais e bem pensados para quem usa.
 
