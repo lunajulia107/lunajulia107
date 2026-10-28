@@ -1,6 +1,6 @@
 # Oi, eu sou a Julia Rodrigues 👋
 
-**Desenvolvedora Full-Stack Júnior** · Java & Spring Boot · JavaScript & React
+**Desenvolvedora Full-stack Júnior** · Java & Spring Boot · JavaScript & React
 
 Construo sistemas no setor de meios de pagamento, com um olhar de design que vem da minha formação em UX/UI.
 
@@ -16,8 +16,7 @@ Desenvolvedora full-stack com foco em **Java e Spring Boot**, atuando no Squad d
 - 💼 Desenvolvedora Full-stack Jr. na **ACT Digital**, alocada na **Cielo**
 - 🎓 Tecnóloga em Design de Mídias Digitais pela **FATEC Barueri**, com Láurea Acadêmica (maior média da turma)
 - 🎤 Palestrante convidada nos Simpósios de Design de Mídias Digitais da FATEC Barueri
-- 📍 Barueri, SP
-
+  
 ---
 
 ## 🛠️ Tecnologias
